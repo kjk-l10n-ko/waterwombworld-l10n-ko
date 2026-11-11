@@ -1,0 +1,7 @@
+slug = "waterwombworld"
+steam_appid = 4014680
+adapter = "waterwombworld"       # adapters/waterwombworld.py 는 아직 없음. legacy/ 번역을 scripts/build.sh 로 적용한다
+track = "a"
+pipeline_repo = "/mnt/h/02_Workspace/40_WSL/kjk-l10n-ko/tools-l10n-ko"
+pipeline_ref = "7d4660974a0643f5d786334376ea9b15a043fded"
+font = "galmuri"

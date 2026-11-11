@@ -1,0 +1,498 @@
+#__PrivCrochet_version:1
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 1595,-1516
+__PrivCrochet_tags: 
+title: intro
+---
+나는 기독교 신자이지만, 오래전에 그 원시적 미신 속의 어떤 만족도 버렸다. 신비주의, 의식들, 나는 그것들이 모두 더 깊은 물질적 사실의 표현일 뿐임을 안다. #line:2927ae
+옛날에는, 과학 세계의 질서와 신의 완전한 계획이 모든 면에서 서로를 확인한다고 여겨졌다. 나는 여전히 이것이 사실이라고 믿는다. 비록 아주 정통적이지 않은 방식이지만... #line:c77e80
+내 평생의 작업은 인간이 은총에서 타락한 기원점을 찾는 일이었다. 그 일은 나를 전 세계로 데려갔지만, 나는 진실을 찾는 그 어느 때보다 가까이 왔다고 믿는다. #line:8ed431
+나는 지금 바다 깊은 곳, 그들이 '가스파 구역'이라 부르는 지역으로 향하고 있다. 잠수 연구실에 필요한 모든 것을 갖추었다. 곧 몇 가지 답을 찾을 수 있기를 바란다... #line:81c5c1
+===
+__PrivCrochet_colorID: 1
+__PrivCrochet_position: 1602,-1255
+__PrivCrochet_tags: 
+title: found_skull
+---
+후기-타락 아담족 두개골을 발견했다. 상당히 오래된 것으로 보인다. 무언가를 밝혀줄지도 모른다... 연구실로 돌아가면 연구해 보겠다. #line:1430c9
+===
+__PrivCrochet_colorID: 1
+__PrivCrochet_position: 1609,-1044
+__PrivCrochet_tags: 
+title: found_mask
+---
+잠수용 마스크다. 보아하니 오래된 제품인 듯하다. 창이 하나만 달려 있다. 연구실에서 살펴볼 가치가 있겠다. #line:0807b9
+===
+__PrivCrochet_colorID: 1
+__PrivCrochet_position: 1612,-823
+__PrivCrochet_tags: 
+title: found_coral
+---
+흥미롭군. 이 산호의 색깔은 그 고대 물고기에서 발견한 붉은 색소와 비슷하다. 채집해야겠다... #line:4d5020
+===
+__PrivCrochet_colorID: 1
+__PrivCrochet_position: 1611,-608
+__PrivCrochet_tags: 
+title: found_nothing
+---
+아무것도 찾지 못했다. 계속 찾아보겠다. #line:e0466f
+===
+__PrivCrochet_colorID: 2
+__PrivCrochet_position: 1892,-1260
+__PrivCrochet_tags: 
+title: got_fish
+---
+잡았다! 이 표본은 연구실로 돌아가면 조사해 보겠다. #line:7639c2
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 1826,-1515
+__PrivCrochet_tags: 
+title: cutscene_1
+---
+곧 나는 거룩한 바다 밑바닥을 걸어 나갈 것이다. 그곳에서 영이 창조되지 않은 맨틀에 생명을 불어넣었으니.. #line:829e76
+잠수정의 조명으로 내 길을 밝혔다. 축복받은 날이다. #line:d1646e
+떠나기 전에 탱크를 채우고 표본 수집용 그물을 챙겨야겠다. #line:b35416
+연구를 하려면 둘 다 필요할 테니. #line:9b3b32
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 2076,-1521
+__PrivCrochet_tags: 
+title: cutscene_2
+---
+떠나기 전에 탱크가 가득 찼는지, 표본 수집용 그물이 있는지 확인해야겠다. #line:f4fb06
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 2326,-1517
+__PrivCrochet_tags: 
+title: cutscene_3
+---
+조명이 켜져 있지만, 여기는 여전히 꽤 어둡군... 그래도 불이 켜져 있는 한 괜찮을 것이다. #line:d60694
+연구실로 돌아가는 입구가 가장 남쪽 지점이라는 걸 기억해야 한다... #line:e8f21b
+여기서 좋은 표본들을 찾을 수 있기를 바란다. 바닥을 체로 걸러서든, 그물로 물고기를 잡아서든. #line:406409
+살아있는 표본들은 나를 피하려 하겠지만, 포기해서는 안 된다. 너무 멀리 헤엄쳐 가지는 못할 테니... #line:29d917
+또한 한 자리에서 체로 걸렀다면, 나중에 다시 걸르는 것은 낭비일 뿐이다. #line:86dcb1
+그물로 살아있는 표본 하나와, 체로 걸러서 표본 둘을 찾아야겠다. 지금으로썬 그것으로 충분할 것이다. #line:76e9a6
+시작할 시간이다. 신이여 나를 인도하소서. #line:c03377
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 2572,-1524
+__PrivCrochet_tags: 
+title: cutscene_4
+---
+연구할 풍성한 수확을 축복받았다. 이제 연구실로 돌아가 시작할 시간이다. #line:e2309f
+기쁨을 간신히 참고 있다. 내 평생의 모든 작업이 이 순간을 향해 이어져 왔으니... #line:799dc0
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 2841,-1521
+__PrivCrochet_tags: 
+title: cutscene_5
+---
+여기 아래에 잠시밖에 있지 않았지만, 신이 내 마음속에서 역사하시고 내 정신을 열어주심을 느낀다. #line:efe6a1
+인간의 원죄, 최초의 유혹, 그것은 신이 정신을 여는 일이기도 했을까? #line:6efc8b
+...나는 여기 혼자이지만, 성령의 위로와 모든 것에 대한 연결성을 느낀다. #line:3fcba7
+인간은 신의 형상대로 창조되었다. 우리 죄로 인해 불완전해진 창조의 신성한 거울. #line:f23501
+나는 때때로 내 육체의 기이함 속에서 그것을 느낀다. 마치 한때 근원에 연결되어 있었다가, 그로부터 분리된 것처럼. #line:f57925
+마치 나는 한때 더 광대한 전체에 뿌리내린 존재였으나, 폭력적으로 제거되어 홀로 자유롭게 떠다니게 된 것 같았다. #line:244571
+... #line:7d5dd6
+음, 내가 말했듯이, 일을 시작해야겠다. #line:2f16ca
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 3115,-1522
+__PrivCrochet_tags: 
+title: cutscene_6
+---
+연구를 시작하기 전에 표본을 더 찾아야겠다. #line:d54e2a
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 3360,-1525
+__PrivCrochet_tags: 
+title: cutscene_7
+---
+오늘은 연구할 표본이 충분히 모인 것 같다. #line:55f865
+이미 가진 것들을 연구해야겠다. #line:32b2b9
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 3596,-1532
+__PrivCrochet_tags: 
+title: cutscene_8
+---
+지금 것은 뭐였지? 고래? 더 큰 소리였던 것 같은데... #line:685537
+밖에 나가 확인해 봐야겠다. #line:b1c177
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 3886,-1540
+__PrivCrochet_tags: 
+title: cutscene_9
+---
+천사...? #line:08ab32
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 4161,-1533
+__PrivCrochet_tags: 
+title: cutscene_10
+---
+좋아. 이제 연구실로 돌아가 연구를 시작해야겠다... #line:0c65fa
+여기 아래서 헤엄치는 것은 흥미로웠다. 어둠과 음침함이 거의 위안이 될 지경이다. #line:ff6bd1 
+모세가 빛나는 어둠 속에서 신을 보았던 일이 떠오른다. 분화되지 않은 무한, 창조된 정신으로는 이해할 수 없는 것. #line:921482
+...그러나 나는 신을 알 수 있다고 믿는다. 그리고 나는 신을 알 것이다. #line:34c516
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 4406,-1536
+__PrivCrochet_tags: 
+title: cutscene_11
+---
+그 빛...? #line:824676
+또 다른 천사? #line:84ae78 
+주여... 나는... 당신의 사랑을 느낍니다... #line:82854a
+===
+__PrivCrochet_colorID: 5
+__PrivCrochet_position: 4681,-1538
+__PrivCrochet_tags: 
+title: cutscene_12
+---
+필요 없네... #line:6a31c8
+===
+__PrivCrochet_colorID: 7
+__PrivCrochet_position: 3751,-1282
+__PrivCrochet_tags: 
+title: room_start_darkness
+---
+불이 꺼졌나? 젠장... 하지만 내 안에서 무언가가 움직인다. #line:8aaf77
+주여, 이 어둠 속에서도 내가 당신과 함께 있음을 아나이다. #line:a05fad
+당신의 말씀은 내 발에 등불이요, 내 길에 빛이로소이다. #line:466250
+...인도하소서. #line:d9ddff
+===
+__PrivCrochet_colorID: 7
+__PrivCrochet_position: 3757,-1055
+__PrivCrochet_tags: 
+title: room_start_angel_met
+---
+주의 사자다. 놀랍도다. 그 형상조차 해독된 창세기 외경의 묘사와 일치하는구나. #line:2465fe
+이러한 광경을 보다니... 가능한 일인가? 그러나 그 메시지는 무슨 뜻이었을까? 신 안에서 온전한 육체라니? #line:3ad477
+더 이상 탐색을 미룰 수 없다. 그 어느 때보다 가까워졌다. 나는 진실을 찾을 것이다. #line:09ceb6
+표본을 더 찾아야 한다. #line:231b3b
+===
+__PrivCrochet_colorID: 7
+__PrivCrochet_position: 3753,-833
+__PrivCrochet_tags: 
+title: room_start_second_outing
+---
+방식을 바꿀 때다. 살아있는 표본 둘과, 바닥에서 물건 하나를 찾아야겠다. #line:705586
+이제는 물속에서 이 산소조차 거의 필요하지 않은 것처럼 느껴진다. #line:933584 
+나는 그 어느 때보다 신과 가까워졌다. #line:48d728
+===
+__PrivCrochet_colorID: 7
+__PrivCrochet_position: 3762,-591
+__PrivCrochet_tags: 
+title: room_start_must_find_it
+---
+반드시 찾아야 한다. . . #line:688778
+===
+__PrivCrochet_colorID: 3
+__PrivCrochet_position: 4666,-1155
+__PrivCrochet_tags: 
+title: feed_more_1
+---
+더.... #line:22aeab
+===
+__PrivCrochet_colorID: 3
+__PrivCrochet_position: 4676,-940
+__PrivCrochet_tags: 
+title: feed_more_2
+---
+더... #line:767b21
+===
+__PrivCrochet_colorID: 3
+__PrivCrochet_position: 4674,-731
+__PrivCrochet_tags: 
+title: feed_water_womb_world
+---
+물의 자궁 세계... #line:b99b1a
+===
+__PrivCrochet_colorID: 6
+__PrivCrochet_position: 2653,-1253
+__PrivCrochet_tags: 
+title: lab_start_it_is_strange
+---
+이상하군. 아마 헤엄쳐 다닌 피로 탓이겠지만, 약간 어지럽다... #line:851922
+축복받은 듯한 가벼움이 내 마음에 스며들었다. #line:7c8a88
+수년간 쌓아온 지식이 바로 궁극적 진리를 배우는 이 순간 나를 떠나려 하는 것 같다... #line:9e2dbc
+음, 어쩔 도리 없으니 계속 나아갈 수밖에... #line:71e4e9
+===
+__PrivCrochet_colorID: 4
+__PrivCrochet_position: 3374,-1221
+__PrivCrochet_tags: 
+title: computer2_fish1
+---
+이 물고기는... 더욱 오래되었다... #line:fee282
+...놀랍다. 거의 불가능하다. 이 생명체와 우리 사이에 어떤 공통된 연결고리가 존재한다. #line:233d34
+또한 이 물고기와 다른 물체들은 눈이 없다는 것을 알 수 있다. 깊은 바다 물고기에게 전혀 없는 일은 아니지만... #line:281f03
+그러나 눈먼 물고기조차 빛과 어둠의 차이를 감지할 수 있다. 이 물고기들은 그 능력조차 완전히 결여되어 있다. #line:825353 
+그리고 내장에 있는 그 이상한 산호도. 무슨 뜻일까? 분명 무언가...있어... #line:409df6
+갑자기 기분이... #line:8b06f8
+===
+__PrivCrochet_colorID: 4
+__PrivCrochet_position: 3371,-1007
+__PrivCrochet_tags: 
+title: computer2_fish2
+---
+너무 오래되었다... 불가능할 정도로 오래되었다... #line:498c31
+옛적의 그 옛님이시여... #line:cb858f
+시간이 내 앞에서 나선처럼 펼쳐지는 듯하다. #line:ceea41
+모든 것에 새겨진 신성한 계획, 그것은 얼마나 오래되었을까? #line:47a444 
+이 물고기는 생명 자체의 기원에 가까이 있었던 것 같다... #line:cee9fa
+...다음...것을...살펴보겠다. #line:b9a792
+===
+__PrivCrochet_colorID: 4
+__PrivCrochet_position: 3376,-788
+__PrivCrochet_tags: 
+title: computer2_coral
+---
+...무슨 뜻일까? #line:a59b3c
+이것을 거의 읽을 수가 없다. 내 시력이 나빠지고 있는 것 같다... 아마 감압병일까? #line:860a8a
+하지만 그것보다 더 큰 것 같다... 마치 세상의 상징들이 제자리에서 떨어져 나가는 듯하다. #line:97fa95
+기분이 너무... #line:a5ee38
+===
+__PrivCrochet_colorID: 4
+__PrivCrochet_position: 3130,-1217
+__PrivCrochet_tags: 
+title: computer1_skull
+---
+매혹적이군. 이 사람은 창세의 근원, 모든 창조의 탄생에 극도로 가까이 있었던 자다! #line:08feca
+그들은 매우, 매우 늙도록 살았으며, 퇴화의 흔적이 극히 적다. #line:6acc9c
+뼈 밀도... 그렇다, 수중-에덴 연구의 한 기둥은 초기 인류가 물속에서 살았다는 것이다. #line:5f68e5
+그 시절 이후로 셀 수 없는 세대가 흘렀고, 아담의 아들들이 지금 취하는 형태는 매우 다르다. #line:18c4de
+그렇게 순수하고, 은총의 상태에 그토록 가까웠던 모습이 어땠을지 상상해 볼 따름이다. #line:532eee
+다음 표본을 장전하겠다. #line:0b2f37
+===
+__PrivCrochet_colorID: 4
+__PrivCrochet_position: 3115,-997
+__PrivCrochet_tags: 
+title: computer1_mask
+---
+이 마스크는 내가 '가스파 구역'을 탐험한 첫 번째 사람이 아님을 증명할 것이다. #line:05f380
+그러나 이 지역은 완전히 외떨어진 곳이다. 즉 누군가가 이곳에 있었던 것은 어떤 목적이 있었기 때문이다... #line:f128d0
+끈에 달린 십자가들을 보건대, 탐험가들은 '교회'에 의해 이곳에 보내졌을 것으로 짐작된다. #line:83ed02
+교황청 내부의 특정 분파들은 '내막을 아는' 자들이다. 그러나 어떤 이들은 진실을 세상으로부터 감추려 할 것이다... #line:4b85f9
+이 탐험가들은 더 '전통적인' 분파들에 의해 제거되었을까? 그리고 그들은 무엇을 발견했는가? 그들은 지금 어디에 있는가? #line:1563a1 
+...다음 표본을 살펴보겠다. #line:e4cc0b
+===
+__PrivCrochet_colorID: 4
+__PrivCrochet_position: 3113,-774
+__PrivCrochet_tags: 
+title: computer1_fish
+---
+놀랍다... 이 물고기는 대홍수 이전 족장들의 시대에 살아 있었을 수도 있다. #line:27ad8b
+이것으로 '가스파 구역'이 에덴의 땅 안이나 그 주변에 위치한다는 이론이 확인될 수 있다. #line:b9e948
+하지만 어떻게? 시공간의 어떤 중단? 혹은 노화 과정의 생물학적 지연? #line:8ef239
+더 광범위한 탐색을 해야 한다... 곧 더 많은 표본을 찾으러 나가야겠다. #line:5e518a
+===
+__PrivCrochet_colorID: 3
+__PrivCrochet_position: 2258,-1250
+__PrivCrochet_tags: 
+title: waterwombworld
+---
+물의 자궁 세계. #line:f6dd61
+===
+__PrivCrochet_colorID: 3
+__PrivCrochet_position: 2253,-1026
+__PrivCrochet_tags: 
+title: angel_monologue
+---
+아담의 아들이여, 내가 너에게 간청하노라. 너의 선조들은 생명나무를 버리고 지식의 열매를 먹었느니라. 너는 반대되는 길을 걷고 있도다. #line:1c25a5 
+너는 이곳을 떠나거나, 한 생명을 다른 생명과 바꾸게 될지니. 인간으로 죽거나... 신 안에 온전한 육체로 들어가라. #line:649424
+네 신의 음성을 듣는 것은 기원 쪽으로 돌아가는 것, 말이 무너지는 자궁으로 다시 들어가는 것임을 이제 알지어다. #line:d9cfbf
+나는 다만 그분이 창조한 전령일 뿐, 내가 아는 것은 이것뿐이니라... #line:d4b555
+아담의 아들이여, 내가 너에게 간청하노라... 간청하노라... 간청하노라... #line:baabc1
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2119,-577
+__PrivCrochet_tags: 
+title: mirror_looking_good
+---
+꽤 괜찮아 보이는군. #line:498362
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2119,-327
+__PrivCrochet_tags: 
+title: mirror_i_am
+---
+나는... 존재한다. . . #line:2fef6d
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2127,-94
+__PrivCrochet_tags: 
+title: mirror_dot
+---
+. . . #line:b4b7a3
+===
+__PrivCrochet_colorID: 6
+__PrivCrochet_position: 2671,-1019
+__PrivCrochet_tags: 
+title: lab_start_womb
+---
+................ #line:8e2064
+자궁.... #line:6e9d70
+굶주림... #line:efaaf5
+나는 존재한다. 나는 굶주림이다. 가서...천사들과 합류하라...신과 합류하라... #line:2c24b8
+===
+__PrivCrochet_colorID: 2
+__PrivCrochet_position: 1898,-1031
+__PrivCrochet_tags: 
+title: meter
+---
+곧 산소가 바닥날 것이다. 연구실로 돌아가겠다... #line:28cb39
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 343,-1897
+__PrivCrochet_tags: 
+title: yames
+---
+YAMES 제작 #line:9d4bb1
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 791,-1887
+__PrivCrochet_tags: 
+title: menu_start
+---
+시작 #line:b15f1a
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 1054,-1909
+__PrivCrochet_tags: 
+title: menu_fullscreen
+---
+전체화면 #line:6a463a
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 1326,-1922
+__PrivCrochet_tags: 
+title: menu_exit
+---
+종료 #line:351bba
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 3626,-1871
+__PrivCrochet_tags: 
+title: lab_actions
+---
+외출 #line:366c32
+탱크 보충 #line:234de7
+연구 #line:71b38b
+그물 보충 #line:eb1547
+거울 #line:28d40a
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 3923,-1886
+__PrivCrochet_tags: 
+title: outside_actions
+---
+바닥 체질 #line:314c5b
+인벤토리 #line:e204e0
+그물 투척 #line:dcceb2
+연구실 귀환 #line:f79b78
+산호 섭취 #line:c3a81c
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 1593,-1929
+__PrivCrochet_tags: 
+title: menu_special_features
+---
+스페셜 #line:d53dda
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 1697,-2375
+__PrivCrochet_tags: 
+title: commentary_intro
+---
+Water Womb World에 오신 것을 환영합니다. 300,000년의 개발 끝에, 기다린 보람이 있기를 바랍니다. 이 버전의 Water Womb World에는 저 Yames의 코멘터리가 포함되어 있습니다. 코멘터리 노드를 시작하려면 게임 창 오른쪽 상단의 코멘터리 제목 위에 마우스를 올리고 왼쪽 버튼을 클릭하세요. 일부 코멘터리 노드는 특정 지점을 더 잘 설명하거나 삭제된 콘텐츠를 보여주기 위해 이미지를 표시할 수 있습니다. 코멘터리 노드가 활성화된 동안에도 게임은 완전히 플레이 가능합니다. 플레이어로서 게임을 나가거나 잠수 연구실에 들어가는 등의 어떤 행동이 코멘터리 노드를 조기에 종료시킬 수 있음에 유의하십시오. #line:a0932a
+코멘터리 노드를 중단하려면 게임 창 왼쪽 상단의 코멘터리 텍스트 위에 마우스를 올리고 왼쪽 버튼을 클릭하거나 코멘터리가 끝날 때까지 기다리십시오. 각기 다른 코멘터리 노드는 다양한 시간과 장소에서 이용 가능합니다. 모두 찾아보세요! 플레이 후 소감을 알려주시기 바랍니다. yames@yames.info로 연락해 주십시오. 감사합니다. 즐거운 게임 되세요. #line:ca6ea2
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 1919,-2371
+__PrivCrochet_tags: 
+title: commentary_origins
+---
+Water Womb World에 대한 첫 번째 아이디어는 플레이어가 기이한 수중 영역을 돌아다니며 다양한 해양 생명체 인간형들과 대화하는 일종의 자유 탐험 게임이었습니다. 그들은 플레이어에게 현재 있는 영역이 시대를 초월하고 무한하며 그곳에서는 아무것도 죽지 않는다고 이야기합니다. 이 존재들 중 하나가 플레이어에게 WATER WOMB WORLD라고 말하는 장면이 떠올랐습니다. 이 아이디어 중 일부는 짐작하실 수 있듯 최종 게임에 포함되었습니다. 시간이 지나면서 아이디어는 완전히 기이한 것에서 인간에서 기이한 것으로의 발전 감각에 의해 더욱 추진되게 되었습니다. #line:85b266 
+저는 유한한 인간이 무시간성과 접촉하는 이야기를 만들고 싶었습니다. 곧 이 아이디어는 두 번 재구성되었습니다. 처음은 전형적인 공상과학 이야기의 형태로, 인간은 세상에 대한 이해가 도전받는 과학자가 됩니다. 그 다음은 과학과 종교를 모두 믿는 누군가가 둘 모두에 도전하는 무언가와 맞닥뜨리는 이야기로 다시 구성되었습니다. #line:3f3260
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2148,-2373
+__PrivCrochet_tags: 
+title: commentary_navigation
+---
+바다 바닥을 걷는 방식은 제가 어렸을 적에 했던 Mummy Tomb Of The Pharoah라는 FMV 게임에서 거의 직접 가져왔습니다. 미리 렌더링된 사막에서 타일 단위로 황무지의 여러 지역을 돌아다니며 완전히 길을 잃었던 기억이 납니다. 전체적인 경직성과 부자연스러운 움직임이 매우 인상적이어서 게임에 넣기로 결정했습니다. 바다 바닥의 모든 미리 렌더링된 스프라이트는 카메라가 격자를 따라 다른 지점에 배치된 하나의 큰 블렌더 프로젝트에서 파생되었습니다. #line:167ba7
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2378,-2374
+__PrivCrochet_tags: 
+title: commentary_angel_encounter
+---
+천사와의 조우는 게임에서 기이함의 첫 번째 실제 모습이어야 했습니다. 원래는 플레이어가 대화를 나누는 듀공이었을 것입니다. 동물이 절대 하지 않을 방식으로 얼굴을 마주하는 것에는 무언가 흥미로운 점이 있다고 생각했습니다. 어떻게든 오징어로 결정했습니다. 오징어가 효과적인 점은 반드시 지나치게 무섭지 않다는 것입니다. 얼굴이 찡그리지도, 화나지도 않고 그저 무심한 사람처럼 보입니다. 말투는 물론 흠정역 성경의 언어에 영향을 받았습니다. #line:030ba1 
+형식과 내용의 특정 기독교적 경향은 아마도 문자 그대로 전달된 의미가 아니라, 천사가 연구자를 위해 특별히 구성한 것이거나 연구자가 문화적 기대를 통해 해석한 것일 수 있습니다. 어둠 속을 배회하다 천사를 만날 때 흘러나오는 원래 음악은 훨씬 더 천상적이고 명백히 긍정적이었습니다. 저는 여전히 그 트랙을 매우 좋아하지만, 최종 버전이 분위기에 더 잘 맞는다고 생각합니다. #line:c439c6
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2624,-2375
+__PrivCrochet_tags: 
+title: commentary_coral_beings_encounter
+---
+산호 생명체들의 시각적 디자인은 거북이를 기반으로 했습니다. 왜 거북이일까요? 글쎄요, 거북이는 매우 현명해 보이면서도 뭔가 이질적으로 보이기 때문입니다. 물론 형태를 덜 친근하게 보이도록 약간 수정했습니다. 생명체들의 외형과 플레이어 캐릭터에 대한 그 외형의 의미 모두를 모호하게 만들고자 했습니다. 확실히 그것들은 변화의 시작을 알립니다. #line:63ac63 
+플레이어 캐릭터는 자신이 찾아 나선 것 속으로 더 깊이 끌려 들어가고 있습니다. 그러나 이것이 정확히 어떻게 기능하는지, 산호가 무엇인지, 어떻게 작동하는지, 플레이어 캐릭터가 이 모든 것에 대해 실제로 어떻게 생각하는지, 그것을 인지하고 반성할 수 있는 한도 내에서, 저는 모호하게 남겨두고 플레이어가 해석할 수 있도록 하고 싶었습니다. #line:5a3b05
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2867,-2376
+__PrivCrochet_tags: 
+title: commentary_ending
+---
+플레이어 캐릭터는 동물적인 광란 또는 신성한 광기에 빠져듭니다. 그들은 바다 바닥 너머로 나가 신의 품으로 달려듭니다. 그것이 죽음이든, 또 다른 산호 생명체가 되는 것이든, 완전히 짐승 같은 존재 방식에 몰두하는 것이든, 아니면 다른 무엇이든 간에 말입니다. 빛나는 상징은 여러 가지일 수 있습니다. 모나드, 눈, 폴립. 모두 하나됨의 것들입니다. 모두 근원으로 돌아가는 것을 가리키는 것들입니다. #line:8426db
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2053,-2613
+__PrivCrochet_tags: 
+title: commentary_titles
+---
+소개 #line:b6c5e0
+기원 #line:70ba2a
+이동 #line:c44b67
+천사 조우 #line:9d183f
+산호 생명체 조우 #line:c75b35
+결말 #line:7fa95d
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2435,-2613
+__PrivCrochet_tags: 
+title: commentary_music_track_titles
+---
+대체 오프닝 트랙 #line:fadf7a
+대체 천사 트랙 #line:535ce2
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 1870,-1939
+__PrivCrochet_tags: 
+title: menu_description_classic
+---
+클래식하고 순수한 버전의 WATER WOMB WORLD를 플레이하려면 클릭하세요. 코멘터리 노드 없음, 업적 없음.\n\nWATER WOMB WORLD를 아직 플레이하지 않았다면 여기서 시작하십시오. #line:43a1be
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2144,-1946
+__PrivCrochet_tags: 
+title: menu_description_special
+---
+선택적 코멘터리 노드, 업적, 대체 음악이 포함된 WATER WOMB WORLD.\n\n돌아온 플레이어를 위해, 이 모드에는 흥미를 끌 만한 추가 요소가 있을 수 있습니다. #line:bf47e1
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 348,-1647
+__PrivCrochet_tags: 
+title: promotion_message
+---
+저를 지원하고 더 기이한 게임들을 조기 및/또는 독점적으로 접근하고 싶으시다면, 제 Patreon 가입을 고려해 주십시오. 월 1 USD부터 가입 가능합니다. . . [클릭하여 링크 열기] #line:759559  
+Steam에 더 많은 게임이 있습니다! [클릭하여 링크 열기] #line:c6298f 
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 2895,-2612
+__PrivCrochet_tags: 
+title: patron_thank_you
+---
+제 작업은 Patreon 후원자들 덕분에 가능합니다. 그분들께 무한한 감사를 드립니다. #line:64504a
+===
+                                    
