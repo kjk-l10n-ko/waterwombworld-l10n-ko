@@ -1,4 +1,4 @@
-# Water Womb World 한글 패치 (v1.2S) (2026-10-28)
+# Water Womb World 한글 패치 (2026-10-28)
 
 게임 **Water Womb World**(Steam)의 비공식 한글 패치입니다.
 
@@ -6,7 +6,7 @@
 * 작업/번역: Claude Sonnet 5.5/Deepseek v4 flash
 * 오류, 오타는 kimjakka96@gmail.com로 제보해주시면 수정 배포하도록 하겠습니다.
 
-[Steam](https://store.steampowered.com/app/4014680) · [최신 릴리스 다운로드](https://github.com/kjk-l10n-ko/waterwombworld-l10n-ko/releases/latest)
+<p align="center"><a href="https://store.steampowered.com/app/4014680">Steam🔗</a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="https://github.com/kjk-l10n-ko/waterwombworld-l10n-ko/releases/latest">Korean Patch Download⬇️</a></p>
 
 ## 설정 방법
 
